@@ -8,6 +8,8 @@ sites:
     url: https://api.either.digital/status
   - name: LK
     url: https://lk.either.digital
+  - name: Mobile App
+    url: https://m.either.digital
   - name: Dev
     url: https://dev.either.digital
   - name: Smart Links
