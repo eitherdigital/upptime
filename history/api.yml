@@ -1,7 +1,7 @@
 url: https://api.either.digital/status
-status: down
-code: 523
-responseTime: 15703
-lastUpdated: 2022-10-24T22:35:00.458Z
+status: up
+code: 200
+responseTime: 495
+lastUpdated: 2022-10-24T22:54:12.239Z
 startTime: Mon Mar 21 2022 14:34:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
