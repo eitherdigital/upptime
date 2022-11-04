@@ -1,7 +1,7 @@
 url: https://either.fun/test
-status: down
-code: 502
-responseTime: 515
-lastUpdated: 2022-11-04T11:53:17.863Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2022-11-04T12:30:40.783Z
 startTime: Wed Apr 27 2022 15:48:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
